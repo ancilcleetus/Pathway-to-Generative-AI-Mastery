@@ -1,4 +1,4 @@
-# **Pathway to Generative AI Mastery**
+# **Pathway to Generative AI Mastery: Complete Generative AI Course from Ground-Up to Greatness**
 
 Welcome to the **Pathway to Generative AI Mastery** course! This course is designed to guide you through the exciting world of Generative AI, covering foundational concepts and advancing to state-of-the-art techniques and real-world applications. Whether you’re new to generative models or looking to enhance your expertise, this course will provide structured learning and hands-on projects to build your mastery.
 
