@@ -62,4 +62,4 @@ By the end of this course, you will:
 
 - Understand the potential and limitations of Generative AI
     
-    Stay tuned for updates!
+Stay tuned for updates!
